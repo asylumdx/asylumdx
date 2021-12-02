@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hazmiae @ asylumdx</h1>
-<h3 align="center">CTF Player and passionate in cyber sec</h3>
+<h3 align="center">CTF player and passionate in cyber sec</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asylumdx" alt="asylumdx" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 My writeup is available here [https://asylumdx.gitbook.io/](https://asylumdx.gitbook.io/)
 
-- 📫 How to reach me **hazmiae@gmail.com**
+- 📫 Reach me at **hazmiae@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
