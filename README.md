@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm hazmiae @ asylumdx</h1>
-<h3 align="center">CTF player and passionate in cyber sec</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asylumdx" alt="asylumdx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/asylumdx" target="blank"><img src="https://img.shields.io/twitter/follow/asylumdx?logo=twitter&style=for-the-badge" alt="asylumdx" /></a> </p>
 
-- 📝 My writeup is available here [https://asylumdx.gitbook.io/](https://asylumdx.gitbook.io/)
+- 📝 My writeup is available here [https://hazmiae.gitbook.io/writeups/](https://hazmiae.gitbook.io/writeups/)
 
 - 📫 Reach me at **hazmiae@gmail.com**
 
